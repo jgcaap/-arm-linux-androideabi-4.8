@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf32-bigarm", "elf32-bigarm",
 	      "elf32-littlearm")
 OUTPUT_ARCH(arm)
 ENTRY(_start)
-SEARCH_DIR("/home/banks/Ubertc/out/arm-linux-androideabi-4.8/arm-linux-android/lib");
+SEARCH_DIR("/home/banks/Ubertcmake/out/arm-linux-androideabi-4.8/arm-linux-android/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */

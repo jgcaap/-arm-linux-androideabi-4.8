@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/home/banks/Ubertc/out/arm-linux-androideabi-4.8/arch-arm/usr/include/stdio.h"
+	"/home/banks/Ubertcmake/out/arm-linux-androideabi-4.8/arch-arm/usr/include/stdio.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
